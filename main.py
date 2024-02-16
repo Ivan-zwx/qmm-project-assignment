@@ -23,5 +23,5 @@ def perform_assignment_3():
 
 
 if __name__ == '__main__':
-    # perform_assignment_3()
+    perform_assignment_3()
     pass
