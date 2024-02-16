@@ -6,6 +6,11 @@ from src.assignment_3_e import perform_assignment_3_e
 from src.assignment_3_f import perform_assignment_3_f
 
 
+# QMM Project Assignment
+# Ivan Pancirov
+# Submitted 16/02/2024
+
+
 def perform_assignment_3():
     print("--------------------------------------------------")
     perform_assignment_3_a()
